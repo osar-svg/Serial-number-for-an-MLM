@@ -51,6 +51,8 @@ Allow easy retrieval and verification.
 
 # Here's a simple Python script to generate serial numbers for an MLM organization:
 
+https://chatgpt.com/canvas/shared/681cafc969888191823ce620f2d526b2
+
 # Mlm Serial Generator
 
 This script generates a unique MLM serial number based on the joining date, sponsor ID, and a sequential member ID. You can extend it by storing the data in a database for long-term tracking.
